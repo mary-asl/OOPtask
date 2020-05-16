@@ -1,15 +1,15 @@
 public class Lamp {
-    double light;
+    private int light;
 
-    public Lamp(double light) {
+    public Lamp(int light) {
         this.light = light;
     }
 
-    public double getLight() {
+    public int getLight() {
         return light;
     }
 
-    public void setLight(double light) {
+    public void setLight(int light) {
         this.light = light;
     }
 

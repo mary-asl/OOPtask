@@ -287,3 +287,484 @@ Room 2
  LightPower 2320.0 (3 windows, which give 700.0 illumination, 1 lamps: [lamp 220.0 lk ])
  Square 30.0 (Busy space 5.0, Free space 25.0, 84% free)
  Furniture: [large table (Square: 5.0)]]
+2020-05-16 12:25:38,149 INFO Building [main] Building.describe(Building.java:29) 
+Building 1
+[
+Room 1
+ LightPower 1870.0 (1 windows, which give 700.0 illumination, 2 lamps: [lamp 220.0 lk , lamp 250.0 lk ])
+ Square 20.0 (Busy space 3.0, Free space 17.0, 85% free)
+ Furniture: [computer table (Square: 2.0), office chair (Square: 1.0)], 
+Room 2
+ LightPower 2320.0 (3 windows, which give 700.0 illumination, 1 lamps: [lamp 220.0 lk ])
+ Square 30.0 (Busy space 5.0, Free space 25.0, 84% free)
+ Furniture: [large table (Square: 5.0)]]
+2020-05-16 12:25:38,491 INFO Building [main] Building.describe(Building.java:29) 
+Building 1
+[
+Room 1
+ LightPower 1870.0 (1 windows, which give 700.0 illumination, 2 lamps: [lamp 220.0 lk , lamp 250.0 lk ])
+ Square 20.0 (Busy space 3.0, Free space 17.0, 85% free)
+ Furniture: [computer table (Square: 2.0), office chair (Square: 1.0)], 
+Room 2
+ LightPower 2320.0 (3 windows, which give 700.0 illumination, 1 lamps: [lamp 220.0 lk ])
+ Square 30.0 (Busy space 5.0, Free space 25.0, 84% free)
+ Furniture: [large table (Square: 5.0)]]
+2020-05-16 12:25:46,254 INFO Building [main] Building.describe(Building.java:29) 
+Building 1
+[
+Room 1
+ LightPower 1870.0 (1 windows, which give 700.0 illumination, 2 lamps: [lamp 220.0 lk , lamp 250.0 lk ])
+ Square 20.0 (Busy space 3.0, Free space 17.0, 85% free)
+ Furniture: [computer table (Square: 2.0), office chair (Square: 1.0)], 
+Room 2
+ LightPower 2320.0 (3 windows, which give 700.0 illumination, 1 lamps: [lamp 220.0 lk ])
+ Square 30.0 (Busy space 5.0, Free space 25.0, 84% free)
+ Furniture: [large table (Square: 5.0)]]
+2020-05-16 12:27:45,684 INFO Building [main] Building.describe(Building.java:29) 
+Building 1
+[
+Room 1
+ LightPower 950.0 (1 windows, which give 700.0 illumination, 2 lamps: [lamp 220.0 lk , lamp 250.0 lk ])
+ Square 20.0 (Busy space 3.0, Free space 17.0, 85% free)
+ Furniture: [computer table (Square: 2.0), office chair (Square: 1.0)], 
+Room 2
+ LightPower 2320.0 (3 windows, which give 700.0 illumination, 1 lamps: [lamp 220.0 lk ])
+ Square 30.0 (Busy space 5.0, Free space 25.0, 84% free)
+ Furniture: [large table (Square: 5.0)]]
+2020-05-16 12:28:29,864 INFO Building [main] Building.describe(Building.java:29) 
+Building 1
+[
+Room 1
+ LightPower 1870.0 (1 windows, which give 700.0 illumination, 2 lamps: [lamp 220.0 lk , lamp 250.0 lk ])
+ Square 20.0 (Busy space 3.0, Free space 17.0, 85% free)
+ Furniture: [computer table (Square: 2.0), office chair (Square: 1.0)], 
+Room 2
+ LightPower 920.0 (3 windows, which give 700.0 illumination, 1 lamps: [lamp 220.0 lk ])
+ Square 30.0 (Busy space 5.0, Free space 25.0, 84% free)
+ Furniture: [large table (Square: 5.0)]]
+2020-05-16 12:29:03,782 INFO Building [main] Building.describe(Building.java:29) 
+Building 1
+[
+Room 1
+ LightPower 950.0 (1 windows, which give 700.0 illumination, 2 lamps: [lamp 220.0 lk , lamp 250.0 lk ])
+ Square 20.0 (Busy space 3.0, Free space 17.0, 85% free)
+ Furniture: [computer table (Square: 2.0), office chair (Square: 1.0)], 
+Room 2
+ LightPower 920.0 (3 windows, which give 700.0 illumination, 1 lamps: [lamp 220.0 lk ])
+ Square 30.0 (Busy space 5.0, Free space 25.0, 84% free)
+ Furniture: [large table (Square: 5.0)]]
+2020-05-17 00:00:18,924 INFO Building [main] Building.describe(Building.java:29) 
+Building 1
+[
+Room 1
+ LightPower 2090.0 (1 windows, which give 700.0 illumination, 2 lamps: [lamp 220.0 lk , lamp 250.0 lk ])
+ Square 20.0 (Busy space 3.0, Free space 17.0, 85% free)
+ Furniture: [computer table (Square: 2.0), office chair (Square: 1.0)], 
+Room 2
+ LightPower 920.0 (3 windows, which give 700.0 illumination, 1 lamps: [lamp 220.0 lk ])
+ Square 30.0 (Busy space 5.0, Free space 25.0, 84% free)
+ Furniture: [large table (Square: 5.0)]]
+2020-05-17 00:00:55,443 ERROR Main [main] Main.main(Main.java:26) Too much light. You can't put any lamps
+2020-05-17 00:00:55,457 INFO Building [main] Building.describe(Building.java:29) 
+Building 1
+[
+Room 1
+ LightPower 220.0 (1 windows, which give 700.0 illumination, 1 lamps: [lamp 220.0 lk ])
+ Square 20.0 (Busy space 3.0, Free space 17.0, 85% free)
+ Furniture: [computer table (Square: 2.0), office chair (Square: 1.0)], 
+Room 2
+ LightPower 0.0 (3 windows, which give 700.0 illumination, 0 lamps: [])
+ Square 30.0 (Busy space 5.0, Free space 25.0, 84% free)
+ Furniture: [large table (Square: 5.0)]]
+2020-05-17 00:01:35,479 INFO Building [main] Building.describe(Building.java:29) 
+Building 1
+[
+Room 1
+ LightPower 2090.0 (1 windows, which give 700.0 illumination, 2 lamps: [lamp 220.0 lk , lamp 250.0 lk ])
+ Square 20.0 (Busy space 3.0, Free space 17.0, 85% free)
+ Furniture: [computer table (Square: 2.0), office chair (Square: 1.0)], 
+Room 2
+ LightPower 920.0 (3 windows, which give 700.0 illumination, 1 lamps: [lamp 220.0 lk ])
+ Square 30.0 (Busy space 5.0, Free space 25.0, 84% free)
+ Furniture: [large table (Square: 5.0)]]
+2020-05-17 00:02:13,297 ERROR Main [main] Main.main(Main.java:26) Too much light. You can't put any lamps
+2020-05-17 00:02:13,309 INFO Building [main] Building.describe(Building.java:29) 
+Building 1
+[
+Room 1
+ LightPower 220.0 (1 windows, which give 700.0 illumination, 1 lamps: [lamp 220.0 lk ])
+ Square 20.0 (Busy space 3.0, Free space 17.0, 85% free)
+ Furniture: [computer table (Square: 2.0), office chair (Square: 1.0)], 
+Room 2
+ LightPower 0.0 (3 windows, which give 700.0 illumination, 0 lamps: [])
+ Square 30.0 (Busy space 5.0, Free space 25.0, 84% free)
+ Furniture: [large table (Square: 5.0)]]
+2020-05-17 00:05:45,094 ERROR Main [main] Main.main(Main.java:26) Too much light. You can't put any lamps
+2020-05-17 00:05:45,110 INFO Building [main] Building.describe(Building.java:29) 
+Building 1
+[
+Room 1
+ LightPower 220.0 (1 windows, which give 700.0 illumination, 1 lamps: [lamp 220.0 lk ])
+ Square 20.0 (Busy space 3.0, Free space 17.0, 85% free)
+ Furniture: [computer table (Square: 2.0), office chair (Square: 1.0)], 
+Room 2
+ LightPower 0.0 (3 windows, which give 700.0 illumination, 0 lamps: [])
+ Square 30.0 (Busy space 5.0, Free space 25.0, 84% free)
+ Furniture: [large table (Square: 5.0)]]
+2020-05-17 00:06:14,595 INFO Building [main] Building.describe(Building.java:29) 
+Building 1
+[
+Room 1
+ LightPower 950.0 (1 windows, which give 700.0 illumination, 2 lamps: [lamp 220.0 lk , lamp 250.0 lk ])
+ Square 20.0 (Busy space 3.0, Free space 17.0, 85% free)
+ Furniture: [computer table (Square: 2.0), office chair (Square: 1.0)], 
+Room 2
+ LightPower 920.0 (3 windows, which give 700.0 illumination, 1 lamps: [lamp 220.0 lk ])
+ Square 30.0 (Busy space 5.0, Free space 25.0, 84% free)
+ Furniture: [large table (Square: 5.0)]]
+2020-05-17 00:12:15,521 ERROR Main [main] Main.main(Main.java:26) Too much light. You can't put any lamps
+2020-05-17 00:12:15,531 INFO Building [main] Building.describe(Building.java:29) 
+Building 1
+[
+Room 1
+ LightPower 220.0 (1 windows, which give 700.0 illumination, 1 lamps: [lamp 220.0 lk ])
+ Square 20.0 (Busy space 3.0, Free space 17.0, 85% free)
+ Furniture: [computer table (Square: 2.0), office chair (Square: 1.0)], 
+Room 2
+ LightPower 0.0 (3 windows, which give 700.0 illumination, 0 lamps: [])
+ Square 30.0 (Busy space 5.0, Free space 25.0, 84% free)
+ Furniture: [large table (Square: 5.0)]]
+2020-05-17 00:14:38,513 ERROR Main [main] Main.main(Main.java:26) Too much light. You can't put any lamps
+2020-05-17 00:14:38,524 INFO Building [main] Building.describe(Building.java:29) 
+Building 1
+[
+Room 1
+ LightPower 0.0 (1 windows, which give 700.0 illumination, 1 lamps: [lamp 220.0 lk ])
+ Square 20.0 (Busy space 3.0, Free space 17.0, 85% free)
+ Furniture: [computer table (Square: 2.0), office chair (Square: 1.0)], 
+Room 2
+ LightPower 0.0 (3 windows, which give 700.0 illumination, 0 lamps: [])
+ Square 30.0 (Busy space 5.0, Free space 25.0, 84% free)
+ Furniture: [large table (Square: 5.0)]]
+2020-05-17 00:15:25,620 ERROR Main [main] Main.main(Main.java:26) Too much light. You can't put any lamps
+2020-05-17 00:15:25,629 INFO Building [main] Building.describe(Building.java:29) 
+Building 1
+[
+Room 1
+ LightPower 0.0 (1 windows, which give 700.0 illumination, 1 lamps: [lamp 220.0 lk ])
+ Square 20.0 (Busy space 3.0, Free space 17.0, 85% free)
+ Furniture: [computer table (Square: 2.0), office chair (Square: 1.0)], 
+Room 2
+ LightPower 0.0 (3 windows, which give 700.0 illumination, 0 lamps: [])
+ Square 30.0 (Busy space 5.0, Free space 25.0, 84% free)
+ Furniture: [large table (Square: 5.0)]]
+2020-05-17 00:15:55,415 ERROR Main [main] Main.main(Main.java:26) Too much light. You can't put any lamps
+2020-05-17 00:15:55,422 INFO Building [main] Building.describe(Building.java:29) 
+Building 1
+[
+Room 1
+ LightPower 0.0 (1 windows, which give 700.0 illumination, 0 lamps: [])
+ Square 20.0 (Busy space 3.0, Free space 17.0, 85% free)
+ Furniture: [computer table (Square: 2.0), office chair (Square: 1.0)], 
+Room 2
+ LightPower 0.0 (3 windows, which give 700.0 illumination, 0 lamps: [])
+ Square 30.0 (Busy space 5.0, Free space 25.0, 84% free)
+ Furniture: [large table (Square: 5.0)]]
+2020-05-17 00:16:57,437 ERROR Main [main] Main.main(Main.java:26) Too much light. You can't put any lamps
+2020-05-17 00:16:57,446 INFO Building [main] Building.describe(Building.java:29) 
+Building 1
+[
+Room 1
+ LightPower 0.0 (1 windows, which give 700.0 illumination, 1 lamps: [lamp 220.0 lk ])
+ Square 20.0 (Busy space 3.0, Free space 17.0, 85% free)
+ Furniture: [computer table (Square: 2.0), office chair (Square: 1.0)], 
+Room 2
+ LightPower 0.0 (3 windows, which give 700.0 illumination, 0 lamps: [])
+ Square 30.0 (Busy space 5.0, Free space 25.0, 84% free)
+ Furniture: [large table (Square: 5.0)]]
+2020-05-17 00:18:13,878 ERROR Main [main] Main.main(Main.java:26) Too much light. You can't put any lamps
+2020-05-17 00:18:26,260 INFO Building [main] Building.describe(Building.java:29) 
+Building 1
+[
+Room 1
+ LightPower 0.0 (1 windows, which give 700.0 illumination, 1 lamps: [lamp 220.0 lk ])
+ Square 20.0 (Busy space 3.0, Free space 17.0, 85% free)
+ Furniture: [computer table (Square: 2.0), office chair (Square: 1.0)], 
+Room 2
+ LightPower 0.0 (3 windows, which give 700.0 illumination, 0 lamps: [])
+ Square 30.0 (Busy space 5.0, Free space 25.0, 84% free)
+ Furniture: [large table (Square: 5.0)]]
+2020-05-17 00:19:49,580 ERROR Main [main] Main.main(Main.java:26) Too much light. You can't put any lamps
+2020-05-17 00:19:49,587 INFO Building [main] Building.describe(Building.java:29) 
+Building 1
+[
+Room 1
+ LightPower 220.0 (1 windows, which give 700.0 illumination, 1 lamps: [lamp 220.0 lk ])
+ Square 20.0 (Busy space 3.0, Free space 17.0, 85% free)
+ Furniture: [computer table (Square: 2.0), office chair (Square: 1.0)], 
+Room 2
+ LightPower 0.0 (3 windows, which give 700.0 illumination, 0 lamps: [])
+ Square 30.0 (Busy space 5.0, Free space 25.0, 84% free)
+ Furniture: [large table (Square: 5.0)]]
+2020-05-17 00:20:22,066 ERROR Main [main] Main.main(Main.java:26) Too much light. You can't put any lamps
+2020-05-17 00:20:22,075 INFO Building [main] Building.describe(Building.java:29) 
+Building 1
+[
+Room 1
+ LightPower 0.0 (1 windows, which give 700.0 illumination, 0 lamps: [])
+ Square 20.0 (Busy space 3.0, Free space 17.0, 85% free)
+ Furniture: [computer table (Square: 2.0), office chair (Square: 1.0)], 
+Room 2
+ LightPower 0.0 (3 windows, which give 700.0 illumination, 0 lamps: [])
+ Square 30.0 (Busy space 5.0, Free space 25.0, 84% free)
+ Furniture: [large table (Square: 5.0)]]
+2020-05-17 00:23:32,939 ERROR Main [main] Main.main(Main.java:26) Too much light. You can't put any lamps
+2020-05-17 00:23:32,948 INFO Building [main] Building.describe(Building.java:29) 
+Building 1
+[
+Room 1
+ LightPower 220.0 (1 windows, which give 700.0 illumination, 1 lamps: [lamp 220.0 lk ])
+ Square 20.0 (Busy space 3.0, Free space 17.0, 85% free)
+ Furniture: [computer table (Square: 2.0), office chair (Square: 1.0)], 
+Room 2
+ LightPower 0.0 (3 windows, which give 700.0 illumination, 0 lamps: [])
+ Square 30.0 (Busy space 5.0, Free space 25.0, 84% free)
+ Furniture: [large table (Square: 5.0)]]
+2020-05-17 00:28:28,489 ERROR Main [main] Main.main(Main.java:26) Too much light. You can't put any lamps
+2020-05-17 00:28:28,501 INFO Building [main] Building.describe(Building.java:29) 
+Building 1
+[
+Room 1
+ LightPower 220.0 (1 windows, which give 700.0 illumination, 1 lamps: [lamp 220.0 lk ])
+ Square 20.0 (Busy space 3.0, Free space 17.0, 85% free)
+ Furniture: [computer table (Square: 2.0), office chair (Square: 1.0)], 
+Room 2
+ LightPower 0.0 (3 windows, which give 700.0 illumination, 0 lamps: [])
+ Square 30.0 (Busy space 5.0, Free space 25.0, 84% free)
+ Furniture: [large table (Square: 5.0)]]
+2020-05-17 00:29:58,613 INFO Building [main] Building.describe(Building.java:29) 
+Building 1
+[
+Room 1
+ LightPower 1870.0 (1 windows, which give 700.0 illumination, 2 lamps: [lamp 220.0 lk , lamp 250.0 lk ])
+ Square 20.0 (Busy space 3.0, Free space 17.0, 85% free)
+ Furniture: [computer table (Square: 2.0), office chair (Square: 1.0)], 
+Room 2
+ LightPower 2320.0 (3 windows, which give 700.0 illumination, 1 lamps: [lamp 220.0 lk ])
+ Square 30.0 (Busy space 5.0, Free space 25.0, 84% free)
+ Furniture: [large table (Square: 5.0)]]
+2020-05-17 00:33:25,309 INFO Building [main] Building.describe(Building.java:29) 
+Building 1
+[
+Room 1
+ LightPower 1870.0 (1 windows, which give 700.0 illumination, 2 lamps: [lamp 220.0 lk , lamp 250.0 lk ])
+ Square 20.0 (Busy space 3.0, Free space 17.0, 85% free)
+ Furniture: [computer table (Square: 2.0), office chair (Square: 1.0)], 
+Room 2
+ LightPower 2320.0 (3 windows, which give 700.0 illumination, 1 lamps: [lamp 220.0 lk ])
+ Square 30.0 (Busy space 5.0, Free space 25.0, 84% free)
+ Furniture: [large table (Square: 5.0)]]
+2020-05-17 00:34:04,802 ERROR Main [main] Main.main(Main.java:26) Too much light. You can't put any lamps
+2020-05-17 00:34:04,811 INFO Building [main] Building.describe(Building.java:29) 
+Building 1
+[
+Room 1
+ LightPower 220.0 (0 windows, which give 700.0 illumination, 1 lamps: [lamp 220.0 lk ])
+ Square 20.0 (Busy space 3.0, Free space 17.0, 85% free)
+ Furniture: [computer table (Square: 2.0), office chair (Square: 1.0)], 
+Room 2
+ LightPower 0.0 (3 windows, which give 700.0 illumination, 0 lamps: [])
+ Square 30.0 (Busy space 5.0, Free space 25.0, 84% free)
+ Furniture: [large table (Square: 5.0)]]
+2020-05-17 00:36:11,266 ERROR Main [main] Main.main(Main.java:26) Too much light. You can't put any lamps
+2020-05-17 00:36:11,274 INFO Building [main] Building.describe(Building.java:29) 
+Building 1
+[
+Room 1
+ LightPower 4670.0 (3 windows, which give 700.0 illumination, 2 lamps: [lamp 220.0 lk , lamp 250.0 lk ])
+ Square 20.0 (Busy space 3.0, Free space 17.0, 85% free)
+ Furniture: [computer table (Square: 2.0), office chair (Square: 1.0)], 
+Room 2
+ LightPower 0.0 (3 windows, which give 700.0 illumination, 0 lamps: [])
+ Square 30.0 (Busy space 5.0, Free space 25.0, 84% free)
+ Furniture: [large table (Square: 5.0)]]
+2020-05-17 00:38:13,150 INFO Building [main] Building.describe(Building.java:29) 
+Building 1
+[
+Room 1
+ LightPower 1870.0 (3 windows, which give 700.0 illumination, 2 lamps: [lamp 220.0 lk , lamp 250.0 lk ])
+ Square 20.0 (Busy space 3.0, Free space 17.0, 85% free)
+ Furniture: [computer table (Square: 2.0), office chair (Square: 1.0)], 
+Room 2
+ LightPower 920.0 (3 windows, which give 700.0 illumination, 1 lamps: [lamp 220.0 lk ])
+ Square 30.0 (Busy space 5.0, Free space 25.0, 84% free)
+ Furniture: [large table (Square: 5.0)]]
+2020-05-17 00:38:57,807 ERROR Main [main] Main.main(Main.java:26) Too much light. You can't put any lamps
+2020-05-17 00:38:57,816 INFO Building [main] Building.describe(Building.java:29) 
+Building 1
+[
+Room 1
+ LightPower 4670.0 (3 windows, which give 700.0 illumination, 2 lamps: [lamp 220.0 lk , lamp 250.0 lk ])
+ Square 20.0 (Busy space 3.0, Free space 17.0, 85% free)
+ Furniture: [computer table (Square: 2.0), office chair (Square: 1.0)], 
+Room 2
+ LightPower 0.0 (3 windows, which give 700.0 illumination, 0 lamps: [])
+ Square 30.0 (Busy space 5.0, Free space 25.0, 84% free)
+ Furniture: [large table (Square: 5.0)]]
+2020-05-17 00:39:20,339 INFO Building [main] Building.describe(Building.java:29) 
+Building 1
+[
+Room 1
+ LightPower 1870.0 (1 windows, which give 700.0 illumination, 2 lamps: [lamp 220.0 lk , lamp 250.0 lk ])
+ Square 20.0 (Busy space 3.0, Free space 17.0, 85% free)
+ Furniture: [computer table (Square: 2.0), office chair (Square: 1.0)], 
+Room 2
+ LightPower 2320.0 (3 windows, which give 700.0 illumination, 1 lamps: [lamp 220.0 lk ])
+ Square 30.0 (Busy space 5.0, Free space 25.0, 84% free)
+ Furniture: [large table (Square: 5.0)]]
+2020-05-17 00:45:46,457 INFO Building [main] Building.describe(Building.java:29) 
+Building 1
+[
+Room 1
+ LightPower 1870.0 (1 windows, which give 700 illumination, 2 lamps: [lamp 220.0 lk , lamp 250.0 lk ])
+ Square 20.0 (Busy space 3.0, Free space 17.0, 85% free)
+ Furniture: [computer table (Square: 2.0), office chair (Square: 1.0)], 
+Room 2
+ LightPower 2320.0 (3 windows, which give 700 illumination, 1 lamps: [lamp 220.0 lk ])
+ Square 30.0 (Busy space 5.0, Free space 25.0, 84% free)
+ Furniture: [large table (Square: 5.0)]]
+2020-05-17 00:47:00,503 INFO Building [main] Building.describe(Building.java:29) 
+Building 1
+[
+Room 1
+ LightPower 470.0 (1 windows, which give 700 illumination, 2 lamps: [lamp 220.0 lk , lamp 250.0 lk ])
+ Square 20.0 (Busy space 3.0, Free space 17.0, 85% free)
+ Furniture: [computer table (Square: 2.0), office chair (Square: 1.0)], 
+Room 2
+ LightPower 220.0 (3 windows, which give 700 illumination, 1 lamps: [lamp 220.0 lk ])
+ Square 30.0 (Busy space 5.0, Free space 25.0, 84% free)
+ Furniture: [large table (Square: 5.0)]]
+2020-05-17 00:47:37,428 INFO Building [main] Building.describe(Building.java:29) 
+Building 1
+[
+Room 1
+ LightPower 1870.0 (1 windows, which give 700 illumination, 2 lamps: [lamp 220.0 lk , lamp 250.0 lk ])
+ Square 20.0 (Busy space 3.0, Free space 17.0, 85% free)
+ Furniture: [computer table (Square: 2.0), office chair (Square: 1.0)], 
+Room 2
+ LightPower 2320.0 (3 windows, which give 700 illumination, 1 lamps: [lamp 220.0 lk ])
+ Square 30.0 (Busy space 5.0, Free space 25.0, 84% free)
+ Furniture: [large table (Square: 5.0)]]
+2020-05-17 00:54:48,669 INFO Building [main] Building.describe(Building.java:29) 
+Building 1
+[
+Room 1
+ LightPower 470.0 (1 windows, which give 700 illumination, 2 lamps: [lamp 220.0 lk , lamp 250.0 lk ])
+ Square 20.0 (Busy space 3.0, Free space 17.0, 85% free)
+ Furniture: [computer table (Square: 2.0), office chair (Square: 1.0)], 
+Room 2
+ LightPower 220.0 (3 windows, which give 700 illumination, 1 lamps: [lamp 220.0 lk ])
+ Square 30.0 (Busy space 5.0, Free space 25.0, 84% free)
+ Furniture: [large table (Square: 5.0)]]
+2020-05-17 00:55:51,086 INFO Building [main] Building.describe(Building.java:29) 
+Building 1
+[
+Room 1
+ LightPower 470 (1 windows, which give 700 illumination, 2 lamps: [lamp 220.0 lk , lamp 250.0 lk ])
+ Square 20.0 (Busy space 3.0, Free space 17.0, 85% free)
+ Furniture: [computer table (Square: 2.0), office chair (Square: 1.0)], 
+Room 2
+ LightPower 220 (3 windows, which give 700 illumination, 1 lamps: [lamp 220.0 lk ])
+ Square 30.0 (Busy space 5.0, Free space 25.0, 84% free)
+ Furniture: [large table (Square: 5.0)]]
+2020-05-17 00:57:00,832 INFO Building [main] Building.describe(Building.java:29) 
+Building 1
+[
+Room 1
+ LightPower 950.0 (1 windows, which give 700 illumination, 2 lamps: [lamp 220.0 lk , lamp 250.0 lk ])
+ Square 20.0 (Busy space 3.0, Free space 17.0, 85% free)
+ Furniture: [computer table (Square: 2.0), office chair (Square: 1.0)], 
+Room 2
+ LightPower 2320.0 (3 windows, which give 700 illumination, 1 lamps: [lamp 220.0 lk ])
+ Square 30.0 (Busy space 5.0, Free space 25.0, 84% free)
+ Furniture: [large table (Square: 5.0)]]
+2020-05-17 00:58:57,356 INFO Building [main] Building.describe(Building.java:29) 
+Building 1
+[
+Room 1
+ LightPower 470.0 (1 windows, which give 700 illumination, 2 lamps: [lamp 220.0 lk , lamp 250.0 lk ])
+ Square 20.0 (Busy space 3.0, Free space 17.0, 85% free)
+ Furniture: [computer table (Square: 2.0), office chair (Square: 1.0)], 
+Room 2
+ LightPower 220.0 (3 windows, which give 700 illumination, 1 lamps: [lamp 220.0 lk ])
+ Square 30.0 (Busy space 5.0, Free space 25.0, 84% free)
+ Furniture: [large table (Square: 5.0)]]
+2020-05-17 01:11:13,098 INFO Building [main] Building.describe(Building.java:29) 
+Building 1
+[
+Room 1
+ LightPower 0.0 (1 windows, which give 700 illumination, 2 lamps: [lamp 220 lk , lamp 250 lk ])
+ Square 20.0 (Busy space 3.0, Free space 17.0, 85% free)
+ Furniture: [computer table (Square: 2.0), office chair (Square: 1.0)], 
+Room 2
+ LightPower 0.0 (3 windows, which give 700 illumination, 1 lamps: [lamp 220 lk ])
+ Square 30.0 (Busy space 5.0, Free space 25.0, 84% free)
+ Furniture: [large table (Square: 5.0)]]
+2020-05-17 01:19:22,054 INFO Building [main] Building.describe(Building.java:29) 
+Building 1
+[
+Room 1
+ LightPower 1170 (1 windows, which give 700 illumination, 2 lamps: [lamp 220 lk , lamp 250 lk ])
+ Square 20.0 (Busy space 3.0, Free space 17.0, 85% free)
+ Furniture: [computer table (Square: 2.0), office chair (Square: 1.0)], 
+Room 2
+ LightPower 2320 (3 windows, which give 700 illumination, 1 lamps: [lamp 220 lk ])
+ Square 30.0 (Busy space 5.0, Free space 25.0, 84% free)
+ Furniture: [large table (Square: 5.0)]]
+2020-05-17 01:19:59,732 ERROR Main [main] Main.main(Main.java:26) Too much light. You can't put any lamps
+2020-05-17 01:19:59,744 INFO Building [main] Building.describe(Building.java:29) 
+Building 1
+[
+Room 1
+ LightPower 1170 (1 windows, which give 700 illumination, 2 lamps: [lamp 220 lk , lamp 250 lk ])
+ Square 20.0 (Busy space 3.0, Free space 17.0, 85% free)
+ Furniture: [computer table (Square: 2.0), office chair (Square: 1.0)], 
+Room 2
+ LightPower 2100 (3 windows, which give 700 illumination, 0 lamps: [])
+ Square 30.0 (Busy space 5.0, Free space 25.0, 84% free)
+ Furniture: [large table (Square: 5.0)]]
+2020-05-17 01:32:37,167 ERROR Main [main] Main.main(Main.java:24) There is no place for putting items.
+2020-05-17 01:32:37,177 INFO Building [main] Building.describe(Building.java:29) 
+Building 1
+[
+Room 1
+ LightPower 700 (1 windows, which give 700 illumination, 0 lamps: [])
+ Square 20.0 (Busy space 0, Free space 20.0, 100% free)
+ Furniture: [], 
+Room 2
+ LightPower 2100 (3 windows, which give 700 illumination, 0 lamps: [])
+ Square 30.0 (Busy space 0, Free space 30.0, 100% free)
+ Furniture: []]
+2020-05-17 01:36:27,432 ERROR Main [main] Main.main(Main.java:24) There is no place for putting items.
+2020-05-17 01:36:27,440 INFO Building [main] Building.describe(Building.java:29) 
+Building 1
+[
+Room 1
+ LightPower 700 (1 windows, which give 700 illumination, 0 lamps: [])
+ Square 20.0 (Busy space 0.0, Free space 20.0, 100% free)
+ Furniture: [], 
+Room 2
+ LightPower 2100 (3 windows, which give 700 illumination, 0 lamps: [])
+ Square 30.0 (Busy space 0.0, Free space 30.0, 100% free)
+ Furniture: []]
+2020-05-17 01:37:38,047 INFO Building [main] Building.describe(Building.java:29) 
+Building 1
+[
+Room 1
+ LightPower 1170 (1 windows, which give 700 illumination, 2 lamps: [lamp 220 lk , lamp 250 lk ])
+ Square 20.0 (Busy space 3.0, Free space 17.0, 85% free)
+ Furniture: [computer table (Square: 2.0), office chair (Square: 1.0)], 
+Room 2
+ LightPower 2320 (3 windows, which give 700 illumination, 1 lamps: [lamp 220 lk ])
+ Square 30.0 (Busy space 5.0, Free space 25.0, 84% free)
+ Furniture: [large table (Square: 5.0)]]

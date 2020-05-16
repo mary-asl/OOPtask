@@ -8,12 +8,9 @@ public class Room {
     private int roomNumber;
     private double area;
     private int windowsCount;
-    private double allFurnitureArea = 0;
-    private double allLightPower = 0;
-    private final double maxFullSpacePercent = 0.7;
+    private final double maxFullSpacePercent = 70;
     private final double maxLightPower = 4000;
-    private final double minLightPower = 300;
-    private final double windowLight = 700;
+    private final int windowLight = 700;
     private ArrayList<Item> furniture = new ArrayList<>();
     private ArrayList<Lamp> lamps = new ArrayList<>();
 
@@ -24,18 +21,64 @@ public class Room {
     }
 
     public void add(Item item) throws SpaceUsageTooMuchException {
-        this.furniture.add(item);
-        allFurnitureArea += item.getArea();
-        if (allFurnitureArea > area * maxFullSpacePercent)
+        if (isSpaceUsageTooMuch(item.getArea()) == true)
+            furniture.add(item);
+        else
             throw new SpaceUsageTooMuchException();
     }
 
+
     public void add(Lamp lamp) throws IlluminanceTooMuchException {
-        this.lamps.add(lamp);
-        allLightPower += lamp.getLight() + windowLight * getWindowsCount();
-        if (minLightPower > allLightPower || allLightPower > maxLightPower) {
+        if (isIlluminanceTooMuch(lamp.getLight()) == true)
+            lamps.add(lamp);
+        else
             throw new IlluminanceTooMuchException();
+    }
+
+    public ArrayList<Lamp> getLamps() {
+        return lamps;
+    }
+
+    public ArrayList<Item> getFurniture() {
+        return furniture;
+    }
+
+    public int getTotalLightOfLamps() {
+        ArrayList<Lamp> lamps = getLamps();
+        int totalLight = 0;
+        for (Lamp l : lamps) {
+            totalLight += l.getLight();
         }
+
+        return totalLight;
+    }
+
+    public double getFoolSpace() {
+        ArrayList<Item> furniture = getFurniture();
+        double totalSquare = 0;
+        for (Item f : furniture) {
+            totalSquare += f.getArea();
+        }
+        return totalSquare;
+    }
+
+    private boolean isIlluminanceTooMuch(int light) {
+        int totalLight = getTotalLightOfLamps() + light;
+        int x = totalLight + (getWindowsCount() * windowLight);
+        if (x < maxLightPower) {
+            return true;
+        }
+        return false;
+    }
+
+    private boolean isSpaceUsageTooMuch(double square) {
+        double totalSquare = getFoolSpace() + square;
+        double roomSquare = getArea();
+        double x = (100 * totalSquare) / roomSquare;
+        if (x < maxFullSpacePercent) {
+            return true;
+        }
+        return false;
     }
 
     public int getRoomNumber() {
@@ -63,19 +106,19 @@ public class Room {
     }
 
     public int freeSpacePercent() {
-        return 100 - (100 * (int) allFurnitureArea / (int) getArea());
+        return 100 - (100 * (int) getFoolSpace() / (int) getArea());
     }
 
     @Override
     public String toString() {
         return "\nRoom " + roomNumber +
-                "\n LightPower " + allLightPower +
+                "\n LightPower " + (getTotalLightOfLamps() + getWindowsCount() * windowLight) +
                 " (" + windowsCount + " windows, " +
                 "which give " + windowLight + " illumination, " +
                 lamps.size() + " lamps: " + lamps +
                 ")\n Square " + area +
-                " (Busy space " + allFurnitureArea +
-                ", Free space " + (getArea() - allFurnitureArea) +
+                " (Busy space " + getFoolSpace() +
+                ", Free space " + (getArea() - getFoolSpace()) +
                 ", " + freeSpacePercent() + "% free)" +
                 "\n Furniture: " + furniture;
     }
