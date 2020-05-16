@@ -1,0 +1,289 @@
+2020-05-14 17:24:50,631 INFO Room [main] Room.printFurniture(Room.java:49) name='computer table', area=2.0
+2020-05-14 18:02:05,438 ERROR Main [main] Main.main(Main.java:14) There is no place
+2020-05-14 18:05:01,256 ERROR Main [main] Main.main(Main.java:14) There is no place. Room: 1
+2020-05-14 18:05:21,520 ERROR Main [main] Main.main(Main.java:14) There is no place. Room: 1
+2020-05-14 18:05:41,381 ERROR Main [main] Main.main(Main.java:13) There is no place. Room: 1
+2020-05-14 18:13:52,248 ERROR Main [main] Main.main(Main.java:13) There is no place. Room: 1
+2020-05-14 18:15:58,149 ERROR Main [main] Main.main(Main.java:13) There is no place. Room: 1
+2020-05-14 18:28:13,949 ERROR Main [main] Main.main(Main.java:13) There is no place. Room: 1
+2020-05-14 18:29:27,690 ERROR Main [main] Main.main(Main.java:13) There is no place. Room: 1
+2020-05-14 18:30:21,424 ERROR Main [main] Main.main(Main.java:13) There is no place. Room: 1
+2020-05-14 18:32:21,391 ERROR Main [main] Main.main(Main.java:13) There is no place. Room: 1
+2020-05-14 18:32:49,292 ERROR Main [main] Main.main(Main.java:13) There is no place. Room: 1
+2020-05-14 18:34:40,050 ERROR Main [main] Main.main(Main.java:13) There is no place. Room: 1
+2020-05-14 18:48:40,870 ERROR Main [main] Main.main(Main.java:13) There is no place. Room: 1
+2020-05-14 18:53:34,478 ERROR Main [main] Main.main(Main.java:13) There is no place. Room: 1
+2020-05-14 19:10:21,611 ERROR Main [main] Main.main(Main.java:13) There is no place. Room: 1
+2020-05-14 19:10:33,904 ERROR Main [main] Main.main(Main.java:13) There is no place. Room: 1
+2020-05-14 19:10:57,197 ERROR Main [main] Main.main(Main.java:13) There is no place. Room: 1
+2020-05-14 19:15:16,294 ERROR Main [main] Main.main(Main.java:13) There is no place. Room: 1
+2020-05-14 19:17:07,673 ERROR Main [main] Main.main(Main.java:13) There is no place. Room: 1
+2020-05-14 19:18:23,242 ERROR Main [main] Main.main(Main.java:13) There is no place. Room: 1
+2020-05-14 23:37:23,727 ERROR Main [main] Main.main(Main.java:25) There is too much light
+2020-05-14 23:38:12,897 ERROR Main [main] Main.main(Main.java:25) There is too much light
+2020-05-14 23:38:32,839 ERROR Main [main] Main.main(Main.java:25) There is too much light
+2020-05-14 23:39:10,796 ERROR Main [main] Main.main(Main.java:25) There is too much light
+2020-05-15 00:25:02,381 INFO Building [main] Building.describe(Building.java:25) Building{rooms=[Room@dbd940d, Room@71d15f18]}
+2020-05-15 00:46:27,468 INFO Building [main] Building.describe(Building.java:25) Building{rooms=[Room 1
+ LightPower 920.0 (1 windows, 11 lamps) 
+ Square 20.0 (Busy space 3.0, Free space 0.0)
+ Furniture: 
+ furniture=[name='computer table', area=2.0, name='office chair', area=1.0], Room 2
+ LightPower 2320.0 (3 windows, 11 lamps) 
+ Square 30.0 (Busy space 5.0, Free space 0.0)
+ Furniture: 
+ furniture=[name='large table', area=5.0]]}
+2020-05-15 00:48:41,592 INFO Building [main] Building.describe(Building.java:25) Building{rooms=[Room 1
+ LightPower 920.0 (1 windows, 2 lamps) 
+ Square 20.0 (Busy space 3.0, Free space 0.0)
+ Furniture: 
+ furniture=[name='computer table', area=2.0, name='office chair', area=1.0], Room 2
+ LightPower 2320.0 (3 windows, 2 lamps) 
+ Square 30.0 (Busy space 5.0, Free space 0.0)
+ Furniture: 
+ furniture=[name='large table', area=5.0]]}
+2020-05-15 00:49:20,507 INFO Building [main] Building.describe(Building.java:25) Building{rooms=[Room 1
+ LightPower 920.0 (1 windows, 1 lamps) 
+ Square 20.0 (Busy space 3.0, Free space 0.0)
+ Furniture: 
+ furniture=[name='computer table', area=2.0, name='office chair', area=1.0], Room 2
+ LightPower 2320.0 (3 windows, 1 lamps) 
+ Square 30.0 (Busy space 5.0, Free space 0.0)
+ Furniture: 
+ furniture=[name='large table', area=5.0]]}
+2020-05-15 00:53:01,638 INFO Building [main] Building.describe(Building.java:25) Building{rooms=[Room 1
+ LightPower 920.0 (1 windows, 1 lamps) 
+ Square 20.0 (Busy space 3.0, Free space 17.0)
+ Furniture: 
+ furniture=[name='computer table', area=2.0, name='office chair', area=1.0], Room 2
+ LightPower 2320.0 (3 windows, 1 lamps) 
+ Square 30.0 (Busy space 5.0, Free space 25.0)
+ Furniture: 
+ furniture=[name='large table', area=5.0]]}
+2020-05-15 00:54:48,603 INFO Building [main] Building.describe(Building.java:25) Building{rooms=[
+ Room 1
+ LightPower 920.0 (1 windows, 1 lamps) 
+ Square 20.0 (Busy space 3.0, Free space 17.0)
+ Furniture: 
+ furniture=[name='computer table', area=2.0, name='office chair', area=1.0], 
+ Room 2
+ LightPower 2320.0 (3 windows, 1 lamps) 
+ Square 30.0 (Busy space 5.0, Free space 25.0)
+ Furniture: 
+ furniture=[name='large table', area=5.0]]}
+2020-05-15 00:58:21,870 INFO Building [main] Building.describe(Building.java:25) Building{rooms=[
+ Room 1
+ LightPower 920.0 (1 windows, 1 lamps) 
+ Square 20.0 (Busy space 3.0, Free space 17.0)
+ Furniture: 
+ furniture=[
+ computer table (Square: 2.0), 
+ office chair (Square: 1.0)], 
+ Room 2
+ LightPower 2320.0 (3 windows, 1 lamps) 
+ Square 30.0 (Busy space 5.0, Free space 25.0)
+ Furniture: 
+ furniture=[
+ large table (Square: 5.0)]]}
+2020-05-15 00:59:20,773 INFO Building [main] Building.describe(Building.java:25) Building{rooms=[
+ Room 1
+ LightPower 920.0 (1 windows, 1 lamps) 
+ Square 20.0 (Busy space 3.0, Free space 17.0
+ Furniture: [computer table (Square: 2.0), office chair (Square: 1.0)], 
+ Room 2
+ LightPower 2320.0 (3 windows, 1 lamps) 
+ Square 30.0 (Busy space 5.0, Free space 25.0
+ Furniture: [large table (Square: 5.0)]]}
+2020-05-15 01:04:29,418 INFO Building [main] Building.describe(Building.java:28) Building 1
+[
+ Room 1
+ LightPower 920.0 (1 windows, 1 lamps) 
+ Square 20.0 (Busy space 3.0, Free space 17.0
+ Furniture: [computer table (Square: 2.0), office chair (Square: 1.0)], 
+ Room 2
+ LightPower 2320.0 (3 windows, 1 lamps) 
+ Square 30.0 (Busy space 5.0, Free space 25.0
+ Furniture: [large table (Square: 5.0)]]
+2020-05-15 01:05:01,293 INFO Building [main] Building.describe(Building.java:28) 
+Building 1
+[
+ Room 1
+ LightPower 920.0 (1 windows, 1 lamps) 
+ Square 20.0 (Busy space 3.0, Free space 17.0
+ Furniture: [computer table (Square: 2.0), office chair (Square: 1.0)], 
+ Room 2
+ LightPower 2320.0 (3 windows, 1 lamps) 
+ Square 30.0 (Busy space 5.0, Free space 25.0
+ Furniture: [large table (Square: 5.0)]]
+2020-05-15 01:05:20,651 INFO Building [main] Building.describe(Building.java:28) 
+Building 1
+[ Room 1
+ LightPower 920.0 (1 windows, 1 lamps) 
+ Square 20.0 (Busy space 3.0, Free space 17.0
+ Furniture: [computer table (Square: 2.0), office chair (Square: 1.0)],  Room 2
+ LightPower 2320.0 (3 windows, 1 lamps) 
+ Square 30.0 (Busy space 5.0, Free space 25.0
+ Furniture: [large table (Square: 5.0)]]
+2020-05-15 01:05:36,170 INFO Building [main] Building.describe(Building.java:28) 
+Building 1
+[Room 1
+ LightPower 920.0 (1 windows, 1 lamps) 
+ Square 20.0 (Busy space 3.0, Free space 17.0
+ Furniture: [computer table (Square: 2.0), office chair (Square: 1.0)], Room 2
+ LightPower 2320.0 (3 windows, 1 lamps) 
+ Square 30.0 (Busy space 5.0, Free space 25.0
+ Furniture: [large table (Square: 5.0)]]
+2020-05-15 01:06:19,419 INFO Building [main] Building.describe(Building.java:28) 
+Building 1
+[
+Room 1
+ LightPower 920.0 (1 windows, 1 lamps) 
+ Square 20.0 (Busy space 3.0, Free space 17.0
+ Furniture: [computer table (Square: 2.0), office chair (Square: 1.0)], 
+Room 2
+ LightPower 2320.0 (3 windows, 1 lamps) 
+ Square 30.0 (Busy space 5.0, Free space 25.0
+ Furniture: [large table (Square: 5.0)]]
+2020-05-15 01:07:43,181 INFO Building [main] Building.describe(Building.java:28) 
+Building 1
+[
+Room 1
+ LightPower 920.0 (1 windows, 1 lamps) 
+ Square 20.0 (Busy space 3.0, Free space 17.0)
+ Furniture: [computer table (Square: 2.0), office chair (Square: 1.0)], 
+Room 2
+ LightPower 2320.0 (3 windows, 1 lamps) 
+ Square 30.0 (Busy space 5.0, Free space 25.0)
+ Furniture: [large table (Square: 5.0)]]
+2020-05-15 01:20:44,029 INFO Building [main] Building.describe(Building.java:28) 
+Building 1
+[
+Room 1
+ LightPower 920.0 (1 windows, 1 lamps) 
+ Square 20.0 (Busy space 3.0, Free space 17.0, 15.0 free)
+ Furniture: [computer table (Square: 2.0), office chair (Square: 1.0)], 
+Room 2
+ LightPower 2320.0 (3 windows, 1 lamps) 
+ Square 30.0 (Busy space 5.0, Free space 25.0, 16.666666666666668 free)
+ Furniture: [large table (Square: 5.0)]]
+2020-05-15 01:22:24,086 INFO Building [main] Building.describe(Building.java:28) 
+Building 1
+[
+Room 1
+ LightPower 920.0 (1 windows, 1 lamps) 
+ Square 20.0 (Busy space 3.0, Free space 17.0, 15% free)
+ Furniture: [computer table (Square: 2.0), office chair (Square: 1.0)], 
+Room 2
+ LightPower 2320.0 (3 windows, 1 lamps) 
+ Square 30.0 (Busy space 5.0, Free space 25.0, 16% free)
+ Furniture: [large table (Square: 5.0)]]
+2020-05-15 01:29:16,705 INFO Building [main] Building.describe(Building.java:28) 
+Building 1
+[
+Room 1
+ LightPower 920.0 (1 windows, 1 lamps) 
+ Square 20.0 (Busy space 3.0, Free space 17.0, 15% free)
+ Furniture: [computer table (Square: 2.0), office chair (Square: 1.0)], 
+Room 2
+ LightPower 2320.0 (3 windows, 1 lamps) 
+ Square 30.0 (Busy space 5.0, Free space 25.0, 16% free)
+ Furniture: [large table (Square: 5.0)]]
+2020-05-15 01:30:24,910 INFO Building [main] Building.describe(Building.java:28) 
+Building 1
+[
+Room 1
+ LightPower 920.0 (1 windows, 1 lamps) 
+ Square 20.0 (Busy space 3.0, Free space 17.0, 85% free)
+ Furniture: [computer table (Square: 2.0), office chair (Square: 1.0)], 
+Room 2
+ LightPower 2320.0 (3 windows, 1 lamps) 
+ Square 30.0 (Busy space 5.0, Free space 25.0, 84% free)
+ Furniture: [large table (Square: 5.0)]]
+2020-05-15 01:34:15,653 INFO Building [main] Building.describe(Building.java:28) 
+Building 1
+[
+Room 1
+ LightPower 920.0 (1 windows, which give 700.0illumination1 lamps 
+ Square 20.0 (Busy space 3.0, Free space 17.0, 85% free)
+ Furniture: [computer table (Square: 2.0), office chair (Square: 1.0)], 
+Room 2
+ LightPower 2320.0 (3 windows, which give 700.0illumination1 lamps 
+ Square 30.0 (Busy space 5.0, Free space 25.0, 84% free)
+ Furniture: [large table (Square: 5.0)]]
+2020-05-15 01:34:42,136 INFO Building [main] Building.describe(Building.java:28) 
+Building 1
+[
+Room 1
+ LightPower 920.0 (1 windows, which give 700.0 illumination 1 lamps 
+ Square 20.0 (Busy space 3.0, Free space 17.0, 85% free)
+ Furniture: [computer table (Square: 2.0), office chair (Square: 1.0)], 
+Room 2
+ LightPower 2320.0 (3 windows, which give 700.0 illumination 1 lamps 
+ Square 30.0 (Busy space 5.0, Free space 25.0, 84% free)
+ Furniture: [large table (Square: 5.0)]]
+2020-05-15 01:37:20,723 INFO Building [main] Building.describe(Building.java:28) 
+Building 1
+[
+Room 1
+ LightPower 920.0 (1 windows, which give 700.0 illumination, 1 lamps which give 220.0 illumination, 
+ Square 20.0 (Busy space 3.0, Free space 17.0, 85% free)
+ Furniture: [computer table (Square: 2.0), office chair (Square: 1.0)], 
+Room 2
+ LightPower 2320.0 (3 windows, which give 700.0 illumination, 1 lamps which give 220.0 illumination, 
+ Square 30.0 (Busy space 5.0, Free space 25.0, 84% free)
+ Furniture: [large table (Square: 5.0)]]
+2020-05-15 01:37:53,237 INFO Building [main] Building.describe(Building.java:28) 
+Building 1
+[
+Room 1
+ LightPower 1870.0 (1 windows, which give 700.0 illumination, 2 lamps which give 220.0 illumination, 
+ Square 20.0 (Busy space 3.0, Free space 17.0, 85% free)
+ Furniture: [computer table (Square: 2.0), office chair (Square: 1.0)], 
+Room 2
+ LightPower 2320.0 (3 windows, which give 700.0 illumination, 1 lamps which give 220.0 illumination, 
+ Square 30.0 (Busy space 5.0, Free space 25.0, 84% free)
+ Furniture: [large table (Square: 5.0)]]
+2020-05-15 01:40:52,489 INFO Building [main] Building.describe(Building.java:28) 
+Building 1
+[
+Room 1
+ LightPower 1870.0 (1 windows, which give 700.0 illumination, 2[Lamp@dbd940d, Lamp@71d15f18]
+ Square 20.0 (Busy space 3.0, Free space 17.0, 85% free)
+ Furniture: [computer table (Square: 2.0), office chair (Square: 1.0)], 
+Room 2
+ LightPower 2320.0 (3 windows, which give 700.0 illumination, 1[Lamp@17695df3]
+ Square 30.0 (Busy space 5.0, Free space 25.0, 84% free)
+ Furniture: [large table (Square: 5.0)]]
+2020-05-15 16:01:44,742 INFO Building [main] Building.describe(Building.java:28) 
+Building 1
+[
+Room 1
+ LightPower 1870.0 (1 windows, which give 700.0 illumination, 2[Lamp@dbd940d, Lamp@71d15f18]
+ Square 20.0 (Busy space 3.0, Free space 17.0, 85% free)
+ Furniture: [computer table (Square: 2.0), office chair (Square: 1.0)], 
+Room 2
+ LightPower 2320.0 (3 windows, which give 700.0 illumination, 1[Lamp@17695df3]
+ Square 30.0 (Busy space 5.0, Free space 25.0, 84% free)
+ Furniture: [large table (Square: 5.0)]]
+2020-05-15 16:27:25,728 INFO Building [main] Building.describe(Building.java:28) 
+Building 1
+[
+Room 1
+ LightPower 1870.0 (1 windows, which give 700.0 illumination, 2[lamp 220.0 lk , lamp 250.0 lk ])
+ Square 20.0 (Busy space 3.0, Free space 17.0, 85% free)
+ Furniture: [computer table (Square: 2.0), office chair (Square: 1.0)], 
+Room 2
+ LightPower 2320.0 (3 windows, which give 700.0 illumination, 1[lamp 220.0 lk ])
+ Square 30.0 (Busy space 5.0, Free space 25.0, 84% free)
+ Furniture: [large table (Square: 5.0)]]
+2020-05-15 16:28:22,201 INFO Building [main] Building.describe(Building.java:28) 
+Building 1
+[
+Room 1
+ LightPower 1870.0 (1 windows, which give 700.0 illumination, 2 lamps: [lamp 220.0 lk , lamp 250.0 lk ])
+ Square 20.0 (Busy space 3.0, Free space 17.0, 85% free)
+ Furniture: [computer table (Square: 2.0), office chair (Square: 1.0)], 
+Room 2
+ LightPower 2320.0 (3 windows, which give 700.0 illumination, 1 lamps: [lamp 220.0 lk ])
+ Square 30.0 (Busy space 5.0, Free space 25.0, 84% free)
+ Furniture: [large table (Square: 5.0)]]
