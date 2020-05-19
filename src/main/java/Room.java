@@ -49,7 +49,6 @@ public class Room {
         for (Lamp l : lamps) {
             totalLight += l.getLight();
         }
-
         return totalLight;
     }
 
